@@ -4,3 +4,5 @@ scikit-learn
 numpy
 regex
 chardet
+matplotlib
+seaborn
